@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-08T15:27:12.916Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="d7DeR623K7P95N7xTNGO" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-08T15:28:47.574Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="TdUGSOeYD2dairXvjZ6F" version="20.3.0" type="github">
   <diagram id="RIJRRoLTWkFty1ASrj1i" name="페이지-1">
-    <mxGraphModel dx="1673" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2370" dy="1292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,12 +45,12 @@
           <mxGeometry x="400" y="400" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sgUuBI5oo0XKesxb7-v0-21" value="Server" style="swimlane;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="5" y="540" width="200" height="200" as="geometry" />
+          <mxGeometry x="440" y="484" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="sgUuBI5oo0XKesxb7-v0-27" value="" style="shape=link;html=1;rounded=0;fontSize=15;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;width=12;" edge="1" parent="1" source="sgUuBI5oo0XKesxb7-v0-2" target="sgUuBI5oo0XKesxb7-v0-21">
+        <mxCell id="sgUuBI5oo0XKesxb7-v0-27" value="" style="shape=link;html=1;rounded=0;fontSize=15;exitX=0.5;exitY=1;exitDx=0;exitDy=0;width=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sgUuBI5oo0XKesxb7-v0-2" target="sgUuBI5oo0XKesxb7-v0-36">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="520" y="330" as="sourcePoint" />
-            <mxPoint x="620" y="330" as="targetPoint" />
+            <mxPoint x="105" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sgUuBI5oo0XKesxb7-v0-30" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -94,6 +94,15 @@
         </mxCell>
         <mxCell id="sgUuBI5oo0XKesxb7-v0-35" value="Device2" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="770" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sgUuBI5oo0XKesxb7-v0-36" value="send_to_server()" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="45" y="554" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sgUuBI5oo0XKesxb7-v0-37" value="" style="shape=link;html=1;rounded=0;fontSize=15;exitX=1;exitY=0.5;exitDx=0;exitDy=0;width=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sgUuBI5oo0XKesxb7-v0-36" target="sgUuBI5oo0XKesxb7-v0-21">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="115" y="479.9999999999998" as="sourcePoint" />
+            <mxPoint x="370" y="690" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
