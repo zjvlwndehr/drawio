@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-08T15:44:47.947Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="UJVL0nM3HT0X-OHpRcaf" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-08T15:45:04.011Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="8QoUFHtXk6AAXCeONIr9" version="20.3.0" type="github">
   <diagram id="RIJRRoLTWkFty1ASrj1i" name="페이지-1">
     <mxGraphModel dx="1422" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -109,6 +109,9 @@
         </mxCell>
         <mxCell id="sgUuBI5oo0XKesxb7-v0-16" value="Request" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="X3hZackEKYRniczOBnsP-2" vertex="1">
           <mxGeometry x="160" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X3hZackEKYRniczOBnsP-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.discordapp.com/attachments/726407051114446870/1017458229606879313/unknown.png;" vertex="1" parent="1">
+          <mxGeometry x="63.32" y="260" width="83.36" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
